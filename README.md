@@ -1,4 +1,4 @@
-<img src="https://github.com/shamaran0207/crime_report_correlation/png.jpg" alt="배너" width="100%"/>
+<img src="https://github.com/shamaran0207/crime_report_correlation/png" alt="배너" width="100%"/>
 </a>
 
 <br/>
